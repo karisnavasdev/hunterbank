@@ -1,4 +1,4 @@
-const CA = 'soonpump';
+const CA = 'Amv9XYhuoYWXPC1vFqy5wnBjEYzHVdYgVZQ8swhcpump';
 
 const copyBtn = document.getElementById('copyBtn');
 const copyLabel = document.getElementById('copyLabel');
